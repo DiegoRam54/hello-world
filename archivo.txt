@@ -1,0 +1,2 @@
+Este archivo de texto tiene la única función de probar la creación de un archivo.
+  Realizado con fines pedagógicos.
